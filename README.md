@@ -1,6 +1,55 @@
+# Batersea Gym
+## Table content
+## 1 UX
+* Project Goals
+The gym is interested in attracting and retaining members, give information services and booking. 
+* Users Goals
+Members and potential members can get information about services bookings and procedures
+* User Stories
+* Desing Choices
+Clear and easy acces to the information, motiveted images and colours
+* Wireframes
+
+## 2 Fetures
+* Existing Features
+
+  Showcase photos of people having fun exercising in the gym and any other media to motivate people to come.
+
+  Provide information on the gym's location, opening hours, contact details and any external resources.
+ Provide detail on the organised classes in the gym and their schedule.
+* Features Left to Implement
+## 3 Technologies Used
+## 4 Testing
+## 5 Deployment
+* How To Run This Project Locally
+
+## Credits
+### Content
+* text where come from
+### Content
+### Media
+#### Images
+### Acknowledegements
+
+
+
+
+
+
+## Bags discovered
+### Solved bugs
+#### title
+* What happen
+* How I solved
+
+## Code
+* Boot strap type and what you did
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+Welcome hernanpd,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
