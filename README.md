@@ -2,20 +2,24 @@
 ## Table content
 ## 1 UX
 * Project Goals
-The gym is interested in attracting and retaining members, give information services and booking. 
+
+    + The gym is interested in attracting and retaining members, give information services and booking. 
 * Users Goals
-Members and potential members can get information about services bookings and procedures
+
+    + Members and potential members can get information about services bookings and procedures
+
 * User Stories
+
 * Desing Choices
-Clear and easy acces to the information, motiveted images and colours
+
+    + Clear and easy acces to the information, motiveted images and colours
 * Wireframes
 
 ## 2 Fetures
-* Existing Features
+* Existing Features:
+  + Showcase photos of people having fun exercising in the gym and any other media to motivate people to come.
 
-  Showcase photos of people having fun exercising in the gym and any other media to motivate people to come.
-
-  Provide information on the gym's location, opening hours, contact details and any external resources.
+  + Provide information on the gym's location, opening hours, contact details and any external resources.
  Provide detail on the organised classes in the gym and their schedule.
 * Features Left to Implement
 ## 3 Technologies Used
@@ -29,6 +33,8 @@ Clear and easy acces to the information, motiveted images and colours
 ### Content
 ### Media
 #### Images
++   running. jpg https://www.pexels.com/photo/an-on-treadmill-1954524/
++   strong https://www.pexels.com/photo/an-on-treadmill-1954524/
 ### Acknowledegements
 
 
@@ -44,6 +50,7 @@ Clear and easy acces to the information, motiveted images and colours
 
 ## Code
 * Boot strap type and what you did
++ https://css-tricks.com/ 
 
 
 

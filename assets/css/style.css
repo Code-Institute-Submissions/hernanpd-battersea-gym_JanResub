@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+/*---------------Heading------*/
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.alert-container {}
+
+.lead {
+    color: white;
+    background-color: #ffff00a1;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+a {
+    color: black;
+}
+
+.navbar-dark .navbar-text {
+    color: yellow;
+}
+
+.callout-container {
+    height: 100vh;
+
+    background: url('../images/runnig.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.logo-big {
+    font-weight: bold;
+    color: #ffff;
+    margin-bottom: 20px;
+}
+
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.jumbotron-header {
+    color: white;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: white;
+}
+/* Navbar */
+
+.navalert-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-left: 0;
+    padding-right: 0;
+    z-index: 1;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border: 0;
+    width: 100%;
+    background-color: rgba(0,0,0,0.25);
+}
+
+.navbar .navbar-toggler {
+    border: 0;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    background-color: #00ff26;
+    padding-inline: 10px;
+    border-radius: 30px;
+
+}
+
+.navbar .navbar-nav a {
+    font-weight: bold;
+}
+/*-------Quotes-----*/
+.quotes-container {}
+
+
+/*-----Features----*/
+Features {}
+
+/*-----Bottons----*/
+
+.btn--cta {
+    font-weight: bold;
+    border-radius: 23px;
+    width: 160px
+}
+
+.btn--red {
+    color: white;
+    background-color: #f05f41;
+    border-color: #f05f41;
+}
+
+.btn--red:hover,
+.btn--red:active,
+.btn--red:focus {
+    background-color: #00ff26fb;
+    border-color: #f05f40;
+    color: white;
+}
+
+/* Block Dividers*/
+
+.block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #444;
+}
+
+.block-divider--orange {
+    background-color: #f05f40;
+}
+
+.block-divider--short {
+    width: 35px;
+}
+
+.block-divider--white{
+    background-color: white;
+}
+
+/* Page header */
+
+.page-header {
+    margin-bottom: 0;
+    border-bottom: 0;
+    text-align: center;
+}
+
+.page-header h2 {
+    margin-top: 0;
+}
+
+.quotes .page-header {
+    margin-bottom: 25px;
+}
