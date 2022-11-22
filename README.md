@@ -8,8 +8,6 @@
 
     + Members and potential members can get information about services bookings and procedures
 
-* User Stories
-
 * Desing Choices
 
     + Clear and easy acces to the information, motiveted images and colours
@@ -29,9 +27,9 @@
 
 ## Credits
 ### Content
-* text where come from
-### Content
-+   forms https://mdbootstrap.com/docs/standard/extended/registration/
+#### Text
++   Some text come from https://www.thegymgroup.com/
+
 ### Media
 #### Images
 +   running.jpg https://www.pexels.com/photo/an-on-treadmill-1954524/
@@ -52,9 +50,11 @@
 * How I solved
 
 ## Code
-* Boot strap type and what you did
-+ https://css-tricks.com/ 
-
+Everything was strongly modificated
++   Boot strap type and what you did
++   https://css-tricks.com/ 
++   forms https://mdbootstrap.com/docs/standard/extended/registration/
++   Our projects: Rossie CV, Wiskey Drop
 
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)

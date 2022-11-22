@@ -243,7 +243,7 @@ facilities {}
 /*-------- Sign-----*/
 
 .sign-container {
-    height: 100vh;
+    height: 130vh;
 
     background: url('../images/Join.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -268,5 +268,6 @@ facilities {}
     padding: 30px 50px;
     border-radius: 90px 30px;
     margin-top: 30px;
+    margin-bottom: 70px;
 }
 
