@@ -31,10 +31,13 @@
 ### Content
 * text where come from
 ### Content
++   forms https://mdbootstrap.com/docs/standard/extended/registration/
 ### Media
 #### Images
-+   running. jpg https://www.pexels.com/photo/an-on-treadmill-1954524/
-+   strong https://www.pexels.com/photo/an-on-treadmill-1954524/
++   running.jpg https://www.pexels.com/photo/an-on-treadmill-1954524/
++   strong.jpg https://www.pexels.com/photo/an-on-treadmill-1954524/
++   join.jpg https://www.pexels.com/photo/an-on-treadmill-1954524/
+
 ### Acknowledegements
 
 

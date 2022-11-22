@@ -9,19 +9,34 @@ body{
 .alert-container {}
 
 .lead {
-    color: white;
-    background-color: #ffff00a1;
+    color: black;
+    background-color: yellow;
     padding: 10px;
     border-radius: 10px;
+    margin-top: 40px;
 }
 
 a {
-    color: black;
+    color: #00ff26;
+}
+
+a:hover {
+    color: white;
+}
+
+#sign {
+    color: white;
 }
 
 .navbar-dark .navbar-text {
-    color: yellow;
+    color: #00ff26;
 }
+
+.navbar-dark .navbar-text {
+    color: #00ff26;
+}
+
+/*-------- Call Out----*/
 
 .callout-container {
     height: 100vh;
@@ -39,10 +54,11 @@ a {
     position: relative;
 }
 
-.logo-big {
+.slogan-big {
     font-weight: bold;
     color: #ffff;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
 }
 
 
@@ -64,6 +80,7 @@ a {
     font-weight: bold;
     margin-bottom: 30px;
 }
+
 /* Navbar */
 
 .navalert-container {
@@ -101,8 +118,8 @@ a {
 .quotes-container {}
 
 
-/*-----Features----*/
-Features {}
+/*-----facilities----*/
+facilities {}
 
 /*-----Bottons----*/
 
@@ -122,8 +139,22 @@ Features {}
 .btn--red:active,
 .btn--red:focus {
     background-color: #00ff26fb;
-    border-color: #f05f40;
+    border-color: #00ff26;
     color: white;
+}
+
+.btn .btn--cta .btn--red a {
+    color: white;
+}
+
+.facilities .btn {
+    background-color: white;
+    border-color: white;
+    border-radius: 15px;
+    min-width: 100px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #4c4ce9;
 }
 
 /* Block Dividers*/
@@ -137,6 +168,10 @@ Features {}
 
 .block-divider--orange {
     background-color: #f05f40;
+}
+
+.block-divider--green {
+    background-color: #00ff26;
 }
 
 .block-divider--short {
@@ -157,8 +192,81 @@ Features {}
 
 .page-header h2 {
     margin-top: 0;
+    margin-bottom: 0;
+    border-bottom: 0
 }
 
 .quotes .page-header {
     margin-bottom: 25px;
 }
+/* Facilities */
+
+.container-wrapper {}
+
+.container-wrapper--blue {
+    background-color: #4c4ce9;
+    color: white;
+}
+
+.content-container {
+    padding-top: 80px;
+    padding-bottom: 75px;
+}
+
+.facilities {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.facilities i {
+    margin-bottom: 20px;
+    font-size: 45px;
+    line-height: 45px;
+}
+
+
+/* Footer */
+.footer-container {
+    padding: 35px;
+}
+
+.footer-container--black {
+    color: #00ff26;
+    background-color: #444;
+    padding-inline: 120px;
+}
+
+.footer {
+    text-align: center;
+}
+
+/*-------- Sign-----*/
+
+.sign-container {
+    height: 100vh;
+
+    background: url('../images/Join.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+
+    padding-top: 100px;
+
+    
+}
+
+.sign-container--white {
+    color: #00ff26;
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 30px 50px;
+    border-radius: 90px 30px;
+    margin-top: 30px;
+}
+
