@@ -13,6 +13,8 @@
     + Clear and easy acces to the information, motiveted images and colours
 * Wireframes
 
+
+
 ## 2 Fetures
 * Existing Features:
   + Showcase photos of people having fun exercising in the gym and any other media to motivate people to come.
