@@ -227,13 +227,15 @@ facilities {}
 
 /* Footer */
 .footer-container {
-    padding: 35px;
+    align-items: center;
+    padding-top: 35px;
+    padding-bottom: 70px;
 }
 
 .footer-container--black {
     color: #00ff26;
     background-color: #444;
-    padding-inline: 120px;
+    
 }
 
 .footer {
