@@ -96,11 +96,19 @@ a:hover {
     margin-bottom: 0;
     border: 0;
     width: 100%;
-    background-color: rgba(0,0,0,0.25);
+    background-color: rgba(0,0,0,0.5);
 }
 
 .navbar .navbar-toggler {
     border: 0;
+}
+
+
+element.style {
+}
+.navbar-collapse .nav-link {
+    background-color: rgba(0,0,0,0.9);
+    text-align: center;
 }
 
 .navbar-brand {
