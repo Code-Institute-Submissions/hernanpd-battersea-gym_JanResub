@@ -295,3 +295,21 @@ facilities {}
     border-radius: 90px 30px;
     width: fit-content;
 }
+
+/*-------Swimming-----*/
+.swimming-container {
+    background: url('../images/swimming.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.swimming-container div {
+    margin: 2px 20px;
+    padding: 30px 50px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 90px 30px;
+    width: fit-content;
+}
