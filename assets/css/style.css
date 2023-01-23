@@ -278,3 +278,20 @@ facilities {}
     margin-bottom: 70px;
 }
 
+/*-------Four O Four-----*/
+.fourofour-container {
+    background: url('../images/strong.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.fourofour-container div {
+    margin: 4rem;
+    padding: 30px 50px;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 90px 30px;
+    width: fit-content;
+}
