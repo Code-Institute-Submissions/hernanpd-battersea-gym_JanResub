@@ -40,17 +40,14 @@ a:hover {
 
 .callout-container {
     height: 100vh;
-
     background: url('../images/runnig.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     position: relative;
 }
 
@@ -93,7 +90,7 @@ a:hover {
 }
 
 .navbar {
-    margin-bottom: 0;
+    margin-bottom: 0px;
     border: 0;
     width: 100%;
     background-color: rgba(0,0,0,0.9);
@@ -187,6 +184,7 @@ facilities {}
     background-color: white;
 }
 
+
 /* Page header */
 
 .page-header {
@@ -204,6 +202,7 @@ facilities {}
 .quotes .page-header {
     margin-bottom: 25px;
 }
+
 /* Facilities */
 
 .container-wrapper {}
@@ -229,18 +228,16 @@ facilities {}
     line-height: 45px;
 }
 
-
 /* Footer */
 .footer-container {
     align-items: center;
     padding-top: 35px;
-    padding-bottom: 70px;
+    padding-bottom: 20px;
 }
 
 .footer-container--black {
     color: #00ff26;
     background-color: #444;
-    
 }
 
 .footer {
@@ -251,22 +248,16 @@ facilities {}
 
 .sign-container {
     height: 130vh;
-
     background: url('../images/Join.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     position: relative;
-
     padding-top: 0px;
-
-    
 }
 
 .sign-container--white {
@@ -307,9 +298,19 @@ facilities {}
 }
 
 .swimming-container div {
-    margin: 2px 20px;
+    margin: 20px 20px 0px;
     padding: 30px 50px;
     background-color: rgba(255, 255, 255, 0.8);
     border-radius: 90px 30px;
     width: fit-content;
+}
+
+/*-------Contact-----*/
+.contact-container {
+    height:800px;
+    
+}
+
+.contact-container div {
+    margin-top: 60px;
 }
