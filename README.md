@@ -28,13 +28,25 @@
 
     + [Index Tablet](assets/images/IndexIPadBPG.png)
 
-    + [Index Mobile](assets/images/IndexPhoneBPF.png)
+    + [Index Mobile](assets/images/IndexPhoneBPG.png)
       
     + [Sign](assets/images/SignBPG.png)
 
     + [Sign Tablet](assets/images/SignIpadBPG.png)
 
     + [Sing Mobile](assets/images/SignPhoneBPG.png)
+
+    + [Swimming](assets/images/Swimming.png)
+
+    + [Swimming Tablet](assets/images/SwimmingIpadBPG.png)
+
+    + [Swimming Mobile](assets/images/SwimmingPhoneBPG.png)
+
+    + [404](assets/images/404BPG.png)
+
+    + [404 Tablet](assets/images/404IPadBPG.png)
+
+    + [404 Mobile](assets/images/404PhoneBPG.png)
 
 ## 2 Fetures
 * Existing Features:
