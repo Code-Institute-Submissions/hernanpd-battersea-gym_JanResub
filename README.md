@@ -11,31 +11,124 @@
 * ### Desing Choices
 
     + ### Index
+    
+    ### Navigation Bar:
+    Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Facilities, Swimmingpool, Contact and Social Media links. It is identical in each page to allow for easy navigation.This section will allow the user to easily navigate from page to page across all devices.
+    + Computer
+
+    ![NavBar](assets/images/NavbarC.png)
+
+    + Tablet
+
+    ![NavBarTab](assets/images/NavbarTab.png)
+
+    + Mobile
+
+    ![NavBarMov](assets/images/NavbarMov.png)
 
     ### Home Page:
     I choose the name Battersea Power Gym because I live in Battersea and making a website for a gym seemed adequate to me. Thinking of the Battersea Power Station, this made me reference to electricity, energy, power and tried to drop this in the image of the website.
 
     I choose this green colour for the logo and as leitmotiv to refer at the green colour from the batterie signal in the electronic devices. You can see on the index page a red button at the bottom, the offer in yellow in the middle and at the top the green colour in the logo and links for social networks, this tries to refer to the level of batteries. And when you go over the logo or click on it, it also turns green, meaning you will recharge your batteries with us, you will feel stronger. The background image was selected, because in addition to someone running in a gym, it has the green of the trees.
+    + Computer
+
+    ![HomeP](assets/images/HomePC.png)
+
+    + Tablet
+
+    ![HomePTab](assets/images/HomePTab.png)
+
+    + Mobile
+
+    ![HomePMov](assets/images/HomePMov.png)
+
 
     ### Facilities:
     You can get here directly fron the navegation bar. I choose this kind of blue as the background colour in the Facilities section, to signify trust, loyalty, sincerity, confidence and stability. I put the most relevant facilities with icons and with a brief explanation, if you want more, you can click on the buttons.
+    + Computer
+
+    ![Facilities](assets/images/FacilitiesC.png)
+
+    + Tablet
+
+    ![FacilitiesTab](assets/images/FacilitiesTab.png)
+
+    + Mobile
+
+    ![FacilitiesMov](assets/images/Facilities1of2Mov.png) ![FacilitiesMov2](assets/images/Facilities2of2Mov.png)
     
     ### Contact:
     Also you can get directly here  from the navigation bar. With a large map the location of the Gym is shown and below in footer that shows the contact information.
+    + Computer
+
+    ![Contact](assets/images/ContactC.png)
+
+    + Tablet
+
+    ![ContactTab](assets/images/ContactTab.png)
+
+    + Mobile
+
+    ![ContactMov](assets/images/ContactMov.png)
     
-    On footer text in the green colour of the gym, basic information, and background in black colour to contrast the letters.
+    
 
     + ### Footer
+    On footer text in the green colour of the gym, basic information, and background in black colour to contrast the letters.
     I tried not to show too much information at first sight, just the most important and necessary, clear and easy access, meaning confidence, style, dynamism and positive energy.
+        + Computer
+
+    ![Footer](assets/images/FooterC.png)
+
+    + Tablet
+
+    ![FacilitiesTab](assets/images/FooterTab.png)
+
+    + Mobile
+
+    ![FooterMov](assets/images/FooterMov.png)
 
     + ### Sign
     Here I choose this picture to meaning empathy and common action: like everybody is happy joining to the gym or everybody is happy booking. About forms, the curvy shape and transparent padding it try to mean transparency, dynamism and style.
+    + Computer
+
+    ![Sign](assets/images/SignC.png)
+
+    + Tablet
+
+    ![SignTab](assets/images/SignTab.png)
+
+    + Mobile
+
+    ![SignMov](assets/images/Sign1of2Mov.png) ![FacilitiesMov2](assets/images/Sign2of2Mov.png)
 
     + ### Swimming Pool
     A photo of the swimming pool, the benefits of swimming to motivate swimming and create a need, the services we can offer you and the option to register.
+    + Computer
+
+    ![Swimming](assets/images/SwimmingC.png)
+
+    + Tablet
+
+    ![SwimmingTab](assets/images/SwimmingTab.png)
+
+    + Mobile
+
+    ![SwimmingMov](assets/images/SwimmingMov.png)
 
     + ### Error 404
     A funny photo of a man making a lot of effort to convey that we are working hard to achieve what they are looking for. And the message that the page was not found.
+    + Computer
+
+    ![404](assets/images/404C.png)
+
+    + Tablet
+
+    ![404Tab](assets/images/404Tab.png)
+
+    + Mobile
+
+    ![404Mov](assets/images/404Mov.png)
 
 * ### Wireframes
 
