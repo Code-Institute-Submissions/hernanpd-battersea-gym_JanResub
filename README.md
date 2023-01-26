@@ -10,7 +10,17 @@
 
 * ### Desing Choices
 
-    + ### Index
+  + Showcase photos of people having fun exercising in the gym and any other media to motivate people to come.
+
+  + Provide information on the gym's location, opening hours, contact details and any external resources.
+ Provide detail on the organised classes in the gym and their schedule.
+
+
+## 2 Features
+* ### Existing Features:
+
+
+    + ### Index.html
     
     ### Navigation Bar:
     Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Facilities, Swimmingpool, Contact and Social Media links. It is identical in each page to allow for easy navigation.This section will allow the user to easily navigate from page to page across all devices.
@@ -164,13 +174,6 @@
 
         + [Mobile](assets/images/404PhoneBPG.png)
 
-## 2 Fetures
-* Existing Features:
-  + Showcase photos of people having fun exercising in the gym and any other media to motivate people to come.
-
-  + Provide information on the gym's location, opening hours, contact details and any external resources.
- Provide detail on the organised classes in the gym and their schedule.
-* Features Left to Implement
 
 ## Credits
 ### Content
