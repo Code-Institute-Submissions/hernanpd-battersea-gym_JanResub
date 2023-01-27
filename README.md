@@ -1,6 +1,6 @@
 # Batersea Gym
 ## Table content
-## 1 UX
+##  UX
 * ### Project Goals
 
     + The gym is interested in attracting and retaining members, give information about services and booking. 
@@ -16,7 +16,7 @@
  Provide detail on the organised classes in the gym and their schedule.
 
 
-## 2 Features
+##  Features
 * ### Existing Features:
 
 
