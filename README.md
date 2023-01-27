@@ -178,22 +178,40 @@
 
 There were some issues with the links not working. The problem was how I had written them, but later I knew how to write them, so I had to wait for the server to apply the changes in the browser, the changes are not applied immediately. And the same with the layout of each device.
 
-+ ### W3C
-    ### Index.html
 Others drawbacks was the Sign In link button on the index page. It is not allowed to put an "< a >" inside the button. So I googled and found "onclick" function and with this I fixed the problem.
 
-I have two messages from W3C: [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhernanpd.github.io%2Fbattersea-gym%2Findex.html)
+  ### Index.html
 
-+ Error: Bad value 100% for attribute width on element iframe: Expected a digit but saw % instead: I don't know of any other way to fill in 100% width on each device.
+  - HTML
+    - I have two messages from W3C: [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhernanpd.github.io%2Fbattersea-gym%2Findex.html)
 
-+ Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed: I'd rather not put a title at all.
+    + Error: Bad value 100% for attribute width on element iframe: Expected a digit but saw % instead: I don't know of any other way to fill in 100% width on each device.
 
-+ Jigsaw CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhernanpd.github.io%2Fbattersea-gym%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+    + Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed: I'd rather not put a title at all.
 
-    ### Sign.html
-    
+  - CSS
+    - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhernanpd.github.io%2Fbattersea-gym%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+  ### Sign.html
+  - HTML
+    - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhernanpd.github.io%2Fbattersea-gym%2Fsign.html)
+
+  - CSS
+    - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhernanpd.github.io%2Fbattersea-gym%2Fsign.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+  ### Swimming.html
+  - HTML
+    - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhernanpd.github.io%2Fbattersea-gym%2Fswimming.html)
+
+  - CSS
+    - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhernanpd.github.io%2Fbattersea-gym%2Fswimming.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+  ### 404.html
+  - HTML
+    - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhernanpd.github.io%2Fbattersea-gym%2F404.html)
+
+  - CSS
+    - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhernanpd.github.io%2Fbattersea-gym%2F404.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## Credits
 ### Content
