@@ -213,10 +213,22 @@ Others drawbacks was the Sign In link button on the index page. It is not allowe
   - CSS
     - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhernanpd.github.io%2Fbattersea-gym%2F404.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - https://hernanpd.github.io/battersea-gym/index.html
+
 ## Credits
 ### Content
+
 #### Text
-+   Some text come from https://www.thegymgroup.com/
++   Some text come from:
+    + https://www.thegymgroup.com/
+    + https://www.placesleisure.org/centres/latchmere-leisure-centre/centre-activities/swimming/
 
 ### Media
 #### Images
@@ -225,9 +237,11 @@ Others drawbacks was the Sign In link button on the index page. It is not allowe
 +   join.jpg https://www.pexels.com/photo/three-woman-in-assorted-color-sport-bras-holding-and-watching-their-smartphones-905336/
 +   swimming.jpg https://www.pexels.com/photo/architecture-blue-building-cool-261372/
 
+
 ## Code
 Everything was strongly modificated
 +   Boot strap type and what you did
 +   https://css-tricks.com/ 
 +   forms https://mdbootstrap.com/docs/standard/extended/registration/
 +   Our projects: Rossie CV, Wiskey Drop
++   The icons in the footer, navigation bar and Facilities were taken from [Font Awesome](https://fontawesome.com/)
